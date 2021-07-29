@@ -27,7 +27,7 @@ export default function StartUps() {
 
                         <ul className="nav navbar-nav navbar-right right-content">
                             <li>
-                                <Link to="/home">Home</Link>
+                                <Link to="/">Home</Link>
                             </li>
                             <li className="active">
                                 <Link className="home" to="/startups">Startups</Link>

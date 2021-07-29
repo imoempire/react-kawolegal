@@ -22,7 +22,7 @@ export default function Login() {
 
                         <ul className="nav navbar-nav navbar-right right-content">
                             <li className="">
-                                <Link to="/home">Home</Link></li>
+                                <Link to="/">Home</Link></li>
                             <li>
                                 <Link to="/startups">Startups</Link></li>
                             <li>
