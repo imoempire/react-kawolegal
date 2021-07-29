@@ -1,6 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 import image1 from '../images/kawo-legal-logo.png'
+import '../start.css';
 
 export default function Register() {
     return (

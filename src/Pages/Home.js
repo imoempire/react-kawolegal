@@ -3,6 +3,7 @@ import "../App.css";
 import image1 from "../images/kawo-legal-logo.png";
 import image2 from "../images/office.jpg";
 
+
 function Home() {
   return (
     <div classNameName="App">
@@ -36,7 +37,7 @@ function Home() {
           <div id="navbar" className="navbar-collapse collapse">
             <ul className="nav navbar-nav navbar-right right-content">
               <li className="active">
-                <Link className="home" to="/home">Home</Link>
+                <Link className="home" to="/">Home</Link>
               </li>
               <li>
                 <Link to="/startups">Startups</Link>

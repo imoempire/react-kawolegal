@@ -1,4 +1,5 @@
 import React from 'react';
+import '../start.css';
 import { Link } from 'react-router-dom';
 import image1 from '../images/kawo-legal-logo.png';
 import image2 from '../images/0.28953600 1525875669.jpeg';
